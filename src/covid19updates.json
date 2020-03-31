@@ -1,0 +1,114 @@
+{
+    "Countries": [
+        {
+            "Country": "",
+            "Slug": "",
+            "NewConfirmed": 0,
+            "TotalConfirmed": 0,
+            "NewDeaths": 0,
+            "TotalDeaths": 0,
+            "NewRecovered": 0,
+            "TotalRecovered": 0
+        },
+        {
+            "Country": " Azerbaijan",
+            "Slug": "-azerbaijan",
+            "NewConfirmed": 0,
+            "TotalConfirmed": 0,
+            "NewDeaths": 0,
+            "TotalDeaths": 0,
+            "NewRecovered": 0,
+            "TotalRecovered": 0
+        },
+        {
+            "Country": "Afghanistan",
+            "Slug": "afghanistan",
+            "NewConfirmed": 50,
+            "TotalConfirmed": 170,
+            "NewDeaths": 0,
+            "TotalDeaths": 4,
+            "NewRecovered": 0,
+            "TotalRecovered": 2
+        },
+        {
+            "Country": "Albania",
+            "Slug": "albania",
+            "NewConfirmed": 11,
+            "TotalConfirmed": 223,
+            "NewDeaths": 1,
+            "TotalDeaths": 11,
+            "NewRecovered": 11,
+            "TotalRecovered": 44
+        },
+        {
+            "Country": "Algeria",
+            "Slug": "algeria",
+            "NewConfirmed": 73,
+            "TotalConfirmed": 584,
+            "NewDeaths": 4,
+            "TotalDeaths": 35,
+            "NewRecovered": 6,
+            "TotalRecovered": 37
+        },
+        {
+            "Country": "Andorra",
+            "Slug": "andorra",
+            "NewConfirmed": 36,
+            "TotalConfirmed": 370,
+            "NewDeaths": 2,
+            "TotalDeaths": 8,
+            "NewRecovered": 9,
+            "TotalRecovered": 10
+        },
+        {
+            "Country": "Angola",
+            "Slug": "angola",
+            "NewConfirmed": 0,
+            "TotalConfirmed": 7,
+            "NewDeaths": 0,
+            "TotalDeaths": 2,
+            "NewRecovered": 0,
+            "TotalRecovered": 0
+        },
+        {
+            "Country": "Antigua and Barbuda",
+            "Slug": "antigua-and-barbuda",
+            "NewConfirmed": 0,
+            "TotalConfirmed": 7,
+            "NewDeaths": 0,
+            "TotalDeaths": 0,
+            "NewRecovered": 0,
+            "TotalRecovered": 0
+        },
+        {
+            "Country": "Argentina",
+            "Slug": "argentina",
+            "NewConfirmed": 75,
+            "TotalConfirmed": 820,
+            "NewDeaths": 4,
+            "TotalDeaths": 23,
+            "NewRecovered": 156,
+            "TotalRecovered": 228
+        },
+        {
+            "Country": "Armenia",
+            "Slug": "armenia",
+            "NewConfirmed": 58,
+            "TotalConfirmed": 482,
+            "NewDeaths": 0,
+            "TotalDeaths": 3,
+            "NewRecovered": 0,
+            "TotalRecovered": 30
+        },
+        {
+            "Country": "Aruba",
+            "Slug": "aruba",
+            "NewConfirmed": 0,
+            "TotalConfirmed": 4,
+            "NewDeaths": 0,
+            "TotalDeaths": 0,
+            "NewRecovered": 0,
+            "TotalRecovered": 0
+        }
+    ]
+}

@@ -11,7 +11,7 @@
 <script>
 import axios from 'axios'
 export default {
-    name: 'Home',
+    name: 'updates',
     data(){
         return {
             countries : {},
@@ -27,10 +27,6 @@ export default {
         })
     },
     methods: {
-        test(){
-            console.log(this.values)
-            alert('Testing')
-        }
     },
     computed:{
         getCountries(){
