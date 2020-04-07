@@ -1,17 +1,20 @@
 <template>
-    <div class="card" style="width: 18rem;">
-        <div class="card-body">
-            <h5 class="card-title">{{title}}</h5>
-            <p>{{numbers}}</p>
-        </div>
-    </div>
+    <v-card  :color="color" dark>
+        <v-card-title>
+            {{title}}
+        </v-card-title>
+        <v-card-body>
+           <p> {{numbers}} </p>
+        </v-card-body>
+    </v-card>
 </template>
 <script>
 export default {
     name: 'statistics',
     props : {
         title: String,
-        numbers: Number
+        numbers: Number,
+        color: String
     }
 }
 </script>
